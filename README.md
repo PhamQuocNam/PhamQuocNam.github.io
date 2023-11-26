@@ -1,11 +1,10 @@
 # PhamQuocNam.github.io
-<!DOCTYPE html>
 <html>
 <head>
 <style>
   .beauty{
     background-color: blue;
-    transition: background-color 1s;
+    transition: 1s;
     }
   .beauty:hover{
     background-color: red;
