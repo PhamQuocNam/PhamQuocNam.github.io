@@ -4,7 +4,6 @@
 <style>
   .beauty{
     background-color: blue;
-    transition: 1s;
     }
   .beauty:hover{
     background-color: red;
